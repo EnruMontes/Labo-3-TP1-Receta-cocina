@@ -1,0 +1,28 @@
+.link_header{
+    margin-right: 15px;
+    font-size: 18px;
+    color: black;
+}
+
+.source{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.titulo-h2{
+    text-align: center;
+}
+
+.tabla{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.tabla th, td{
+    border: 1px solid #222222;
+    padding: 8px;
+    text-align: left;
+}
